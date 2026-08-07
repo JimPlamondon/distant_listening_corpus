@@ -203,6 +203,8 @@ See the [GitHub releases](https://github.com/DCMLab/distant_listening_corpus/rel
 
 Please [create an issue](https://github.com/DCMLab/distant_listening_corpus/issues) and/or feel free to fork and submit pull requests.
 
+This fork also maintains a [corpus-correction registry](corrections/README.md) for potential errors discovered during JiMS chord-naming research. Confirmed fixes remain in JimPlamondon subcorpus forks until the project is ready to submit them upstream.
+
 ## Cite as
 
 > Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
